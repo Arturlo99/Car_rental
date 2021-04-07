@@ -5,6 +5,7 @@ CRUD application realizing car rental management system functionality.
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting_started)
+- [Application Preview](#application_preview)
 
 ## Prerequisites <a name = "prerequisites"></a>
 
@@ -32,7 +33,7 @@ Running the application:
 ```
 $ ./mvnw javafx:run
 ```
-## Views
+## Application Preview <a name = "application_preview"></a>
 | ![logowanie_rejestracja](https://user-images.githubusercontent.com/49612999/112478776-a17d5380-8d74-11eb-961f-7e787c800c56.png)|  
 |:--:| 
 | *Image1: Login window* |
